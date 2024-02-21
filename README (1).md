@@ -1,6 +1,7 @@
 
 What is Cloud Computing
 
+
 This project aims to explain what cloud computing is, it's characteristics, and benefits to organizations. As well as explain AWS services.
 
 Skills Learned
@@ -12,4 +13,3 @@ Skills Learned
 
 Tools used 
 - Google Slides 
-
